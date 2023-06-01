@@ -3,7 +3,9 @@ Trabalho da disciplina de Compiladores 2023/1
 
 Professor:    Daniel Lucrédio.
 
-Estudantes:   Gabriel Mansano Pires, RA: 790951;
+Estudantes:   
+
+              Gabriel Mansano Pires, RA: 790951;
 
               Jonathan Braian Dias Vaz, RA: 790870;
               
