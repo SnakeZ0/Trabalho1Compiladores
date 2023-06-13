@@ -56,7 +56,7 @@ C:\Compiladores_2023s01\temp
 C:\Compiladores_2023s01\casos-de-teste
 ```
 
-"ARG4" -> RA's dos membros do grupo (RA1, RA2, RA3). Como exemplo abaixo:
+"ARG5" -> RA's dos membros do grupo (RA1, RA2, RA3). Como exemplo abaixo:
 
 ```
 790951, 790870, 790984
