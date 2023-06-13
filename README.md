@@ -26,37 +26,37 @@ mvn package
 
 3) O pacote "lexico-1.0-jar-with-dependencies.jar" será criado e ficará disponível na pasta "analisadorlexico/target/lexico-1.0-jar-with-dependencies.jar";
  
-4) Acesse novamente o terminal e execute o comando a seguir substituindo os campos de <ARG*> com os arquivos e dados indicados;
+4) Acesse novamente o terminal e execute o comando a seguir substituindo os campos de "ARG*" com os arquivos e dados indicados;
   
 ```
-java -jar <ARQ1> "java -jar <ARG2>" gcc <ARG3> <ARG4> "<ARG5>" t1
+java -jar <ARG1> "java -jar <ARG2>" gcc <ARG3> <ARG4> "<ARG5>" t1
 ```
 
-<ARG1> -> Localização completa do arquivo de corretor (compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar). Como exemplo abaixo:
+"ARG1" -> Localização completa do arquivo de corretor (compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar). Como exemplo abaixo:
 
 ```
 C:\Compiladores_2023s01\corretor\compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
-<ARG2> -> Localização completa do .jar de execução que se encontra na pasta "target" (analisador-lexico-1.0-SNAPSHOT-jar-with-dependencies.jar). Como exemplo abaixo: 
+"ARG2" -> Localização completa do .jar de execução que se encontra na pasta "target" (analisador-lexico-1.0-SNAPSHOT-jar-with-dependencies.jar). Como exemplo abaixo: 
 
 ```
 C:\Compiladores_2023s01\Trabalho1Compiladores\analisadorlexico\target\analisador-lexico-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
-<ARG3> -> Localização completa onde sairám os arquivos resultantes da execução (temp). Como exemplo abaixo:
+"ARG3" -> Localização completa onde sairám os arquivos resultantes da execução (temp). Como exemplo abaixo:
 
 ```
 C:\Compiladores_2023s01\temp
 ```
 
-<ARG4> -> Localização completa da pasta de Casos de Testes (casos-de-teste). Como exemplo abaixo:
+"ARG4" -> Localização completa da pasta de Casos de Testes (casos-de-teste). Como exemplo abaixo:
 
 ```
 C:\Compiladores_2023s01\casos-de-teste
 ```
 
-<ARG4> -> RA's dos membros do grupo (RA1, RA2, RA3). Como exemplo abaixo:
+"ARG4" -> RA's dos membros do grupo (RA1, RA2, RA3). Como exemplo abaixo:
 
 ```
 790951, 790870, 790984
